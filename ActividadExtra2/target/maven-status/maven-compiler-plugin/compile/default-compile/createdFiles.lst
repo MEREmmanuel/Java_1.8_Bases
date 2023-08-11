@@ -1,0 +1,7 @@
+Entidades\Alquiler.class
+Data\ListaPeliculas.class
+App.class
+Servicios\MenuService.class
+Entidades\Pelicula.class
+Servicios\AlquilerService.class
+Servicios\PeliculaService.class
