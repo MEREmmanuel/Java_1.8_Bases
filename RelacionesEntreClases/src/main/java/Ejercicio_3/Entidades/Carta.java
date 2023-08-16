@@ -1,6 +1,6 @@
-package Ejercicio_1.Entidades;
+package Ejercicio_3.Entidades;
 
-import Ejercicio_1.Enumeraciones.Palo;
+import Ejercicio_3.Enumeraciones.Palo;
 
 /**
  *
